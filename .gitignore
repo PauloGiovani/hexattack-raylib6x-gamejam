@@ -86,3 +86,6 @@ android.*
 build
 build-web
 
+# Others
+covers
+

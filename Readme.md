@@ -63,7 +63,7 @@ Assets from Itch.io, Pixabay, and DaFont:
 
 ### Links
 
- - itch.io Release: https://paulogiovani.itch.io/hexattack
+ - itch.io Release: https://paulo-giovani.itch.io/hex-attack
 
 ### License
 
