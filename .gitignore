@@ -83,5 +83,6 @@ android.*
 .DS_Store
 
 # Build-web folder
-[Bb]uild-web
-[Bb]build
+build
+build-web
+
