@@ -1,6 +1,6 @@
 ## HEX ATTACK - Avoid Enemies and Survive!
 
-![HEX ATTACK - Avoid Enemies and Survive!](screenshots/hexattack.png "HEX ATTACK - Avoid Enemies and Survive!")
+![HEX ATTACK - Avoid Enemies and Survive!](screenshots/HexAttack.png "HEX ATTACK - Avoid Enemies and Survive!")
 
 ### Description
 
@@ -39,11 +39,11 @@ Can you survive every wave as the speed and difficulty increase?
 
 Each hexagon that escapes your shots attaches to the central platform. If they manage to build a bridge to the corners of the screen, the invasion begins and it's *Game Over*! Keep the arena clear at all costs.
 
-![Attack enemies](screenshots/gameplay01 "Attack enemies")
+![Attack enemies](screenshots/gameplay01.png "Attack enemies")
 
-![Avoid enemies to connect](screenshots/gameplay02 "Avoid enemies to connect")
+![Avoid enemies to connect](screenshots/gameplay02..png "Avoid enemies to connect")
 
-![Avoid corner bridges](screenshots/gameplay03 "Corner brides... ganme over!")
+![Avoid corner bridges](screenshots/gameplay03.png "Corner brides... ganme over!")
 
 ### Developers
 
